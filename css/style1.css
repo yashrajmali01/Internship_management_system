@@ -1,0 +1,74 @@
+body{
+	font-family: 'Open Sans', sans-serif;
+}
+
+.bg-img{
+	
+	background-image:url('../images/familyEdited.jpg');
+	background-repeat:repeat;
+	width:1400px;
+	height:700px;
+}
+.user-top{
+	
+	padding-top:580px;
+}
+.text-color {
+	color:mediumpurple;
+}
+nav ul li{
+	
+	list-style-type:none;
+	display:inline;
+}
+nav ul li a{
+	
+	text-decoration:none;
+	color:white;
+	padding-right:15px;
+}
+nav ul{
+	padding-top:20px;
+}
+a{
+	text-decoration:none;
+}
+.footer-style{
+	
+	background-color:black;
+	color:azure;
+}
+.bold-font{
+	font-family: 'Oswald', sans-serif;
+	font-weight:700;
+	text-shadow: 4px 3px 1px rgba(0,0,0,0.6);
+	color:white;
+}
+span{
+	color:darkred;
+}
+h1{
+	text-align:center;
+}
+header h1{
+	font-size:25px;
+	padding-top:15px;
+}
+main{
+	padding-top:20px;
+}
+h1,h2{
+	font-family: 'Playfair Display', serif;
+	font-size:66px;
+}
+button a{
+	text-decoration:none;
+	color:whitesmoke;
+}
+/* .slide-tag{
+	
+} */
+.text-head{
+	color:white;
+	text-decoration:none;
+}
